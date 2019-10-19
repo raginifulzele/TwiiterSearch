@@ -1,0 +1,28 @@
+.searchBar .searchButton {
+  margin: 16px 8px;
+  border-radius: 1px;
+  background-color: #1da1f2;
+}
+.searchBar {
+  margin-bottom: 20px;
+}
+
+input {
+  display: "none";
+}
+.resultPaper {
+  font-size: 11px;
+}
+.topGrid {
+  color: gray;
+  text-align: left;
+}
+.bottomGrid {
+  text-align: left;
+  font-size: 13px;
+  color: darkslategrey;
+}
+.avatar {
+  height: 40px;
+  width: 40px;
+}
